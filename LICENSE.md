@@ -1,4 +1,4 @@
-# 
+# Enhance Inkscape for macOS with Inkscape for macOS new Automation: version history & auto-retouch, the #1 automation. Includes version history and auto-retouch for a smoother and
 
 
 
